@@ -1,4 +1,4 @@
-# NPM Clone: Static Website using HTML & CSS
+# NPM Clone: Static Website
 
 This is a cloned static landing page of the **NPM website** ([Official
 Page](https://www.npmjs.com/)). I have used Google Chrome Developer to pick up
